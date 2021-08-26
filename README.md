@@ -1,7 +1,7 @@
 - 👋 Olá sou o Guilherme Cordeiro de Sousa, estudante de Sistemas de Informação da PUC MG
 - 👀 Estou interessado em ser um Desenvolvedor WEB FULL-STACK, Android e Desktop
 - 🌱 Atualmente estou aprendendo HTML5, CSS3, JAVASCRIPT, PHP8 + My SQL, Python, Java, C# e Kotlin
-- 💞️ Estou procurando colaborar na área web e na área de softwares em geral
+- 💞️ Estou procurando colaborar nas áreas de web e de softwares (desktop e android)
 - 📫 Linkedin: https://www.linkedin.com/in/guilherme-cordeiro-de-sousa-9002091b5/
 - 📫 Instagram: https://www.instagram.com/guilherme_cordeiro_de_sousa/
 - 📫 Facebook: https://www.facebook.com/guilherme.cordeiro.de.sousa.face/
