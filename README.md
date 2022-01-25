@@ -1,6 +1,5 @@
 - 👋 Olá sou o Guilherme Cordeiro de Sousa, estudante de Engenharia de Software na Unopar;
 - 👀 Estou interessado em ser um DESENVOLVEDOR FULL STACK
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JAVASCRIPT e PHP8 + My SQL;
-- 💞️ Estou procurando colaborar nas áreas de Desenvolvimento WEB(Front-end e Back-end);
-- :man_technologist: Todo meu portifólio será publicado aqui no GitHub.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e PHP + My SQL;
+- :man_technologist: Todo meu portfólio será publicado aqui no GitHub.
 - 📫 Linkedin: https://www.linkedin.com/in/guilherme-cordeiro-de-sousa-9002091b5/
